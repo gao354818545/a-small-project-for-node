@@ -1,0 +1,20 @@
+{
+  "name": "a-small-project-for-node",
+  "version": "1.0.0",
+  "description": "nodejs和mangodb的应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gao354818545/a-small-project-for-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gao354818545/a-small-project-for-node/issues"
+  },
+  "homepage": "https://github.com/gao354818545/a-small-project-for-node#readme"
+}
