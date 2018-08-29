@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gao354818545/a-small-project-for-node/issues"
   },
-  "homepage": "https://github.com/gao354818545/a-small-project-for-node#readme"
+  "homepage": "https://github.com/gao354818545/a-small-project-for-node#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
